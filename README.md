@@ -1,2 +1,2 @@
-- Welcome to my personal account.  I host all of my projects ranging from Django or Ruby on Rails sites to questionably useful python scripts that make my life or my friend's lives easier. 
+- Welcome to my personal account.  I host all of my projects ranging from Django or Ruby on Rails sites to questionably useful python scripts. 
 - Reach me on [LinkedIn](https://www.linkedin.com/in/kevin-c-jay/) or [Strava](https://www.strava.com/athletes/24745709)
